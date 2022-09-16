@@ -1,0 +1,22 @@
+body{
+    background-color: #80b4ff;
+    color: #14022d;
+}
+.bg-primary{
+    background-color: #d7449e;
+}
+.navbar-custom {
+    background-color: #d7449e;
+}
+.card-custom {
+    background-color: #d7449e;
+    color: #14022d;
+}
+.navbar-custom .navbar-brand,
+        .navbar-custom .navbar-text {
+            color: #350979;
+        }
+.footer-custom{
+    background-color: #350979;
+    color:white;
+}
